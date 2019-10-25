@@ -1,4 +1,4 @@
 Read me.2.0
-- feature-A
+- feature-A 2.0
 - fix-B
 - feature-C
